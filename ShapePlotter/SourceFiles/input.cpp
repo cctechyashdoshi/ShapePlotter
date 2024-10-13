@@ -1,6 +1,6 @@
 #include "../HeaderFiles/input.h"
-#include <iomanip>  // For std::fixed and std::setprecision
-#include <limits>   // For std::numeric_limits
+#include <iomanip> 
+#include <limits> 
 
 Input::Input()
 {
